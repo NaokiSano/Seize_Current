@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: db1495575966c76449126fab22fc0ee7
+timeCreated: 1466736624
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bone:joint1
+    100002: bone:joint2
+    100004: bone:joint3
+    100006: bone:joint4
+    100008: bone:joint5
+    100010: bone:joint6
+    100012: bone:joint7
+    100014: bone:joint8
+    100016: bone:joint9
+    100018: Maguro
+    100020: //RootNode
+    100022: polySurface2
+    100024: polySurface3
+    100026: pPlane1
+    100028: pPlane10
+    100030: pPlane11
+    100032: pPlane12
+    100034: pPlane13
+    100036: pPlane14
+    100038: pPlane2
+    100040: pPlane3
+    100042: pPlane4
+    100044: pPlane5
+    100046: pPlane6
+    100048: pPlane7
+    100050: pPlane8
+    100052: pPlane9
+    400000: bone:joint1
+    400002: bone:joint2
+    400004: bone:joint3
+    400006: bone:joint4
+    400008: bone:joint5
+    400010: bone:joint6
+    400012: bone:joint7
+    400014: bone:joint8
+    400016: bone:joint9
+    400018: Maguro
+    400020: //RootNode
+    400022: polySurface2
+    400024: polySurface3
+    400026: pPlane1
+    400028: pPlane10
+    400030: pPlane11
+    400032: pPlane12
+    400034: pPlane13
+    400036: pPlane14
+    400038: pPlane2
+    400040: pPlane3
+    400042: pPlane4
+    400044: pPlane5
+    400046: pPlane6
+    400048: pPlane7
+    400050: pPlane8
+    400052: pPlane9
+    4300000: polySurface3
+    4300002: pPlane1
+    4300004: pPlane2
+    4300006: pPlane3
+    4300008: pPlane4
+    4300010: pPlane5
+    4300012: pPlane6
+    4300014: pPlane7
+    4300016: pPlane8
+    4300018: pPlane9
+    4300020: pPlane10
+    4300022: pPlane11
+    4300024: pPlane12
+    4300026: pPlane13
+    4300028: pPlane14
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: polySurface3
+    13700002: pPlane1
+    13700004: pPlane10
+    13700006: pPlane11
+    13700008: pPlane12
+    13700010: pPlane13
+    13700012: pPlane14
+    13700014: pPlane2
+    13700016: pPlane3
+    13700018: pPlane4
+    13700020: pPlane5
+    13700022: pPlane6
+    13700024: pPlane7
+    13700026: pPlane8
+    13700028: pPlane9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 103
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bone:joint1
+        weight: 1
+      - path: bone:joint1/bone:joint2
+        weight: 1
+      - path: bone:joint1/bone:joint2/bone:joint3
+        weight: 1
+      - path: bone:joint1/bone:joint2/bone:joint3/bone:joint4
+        weight: 1
+      - path: bone:joint1/bone:joint2/bone:joint3/bone:joint4/bone:joint5
+        weight: 1
+      - path: bone:joint1/bone:joint2/bone:joint3/bone:joint4/bone:joint5/bone:joint6
+        weight: 1
+      - path: bone:joint1/bone:joint2/bone:joint3/bone:joint4/bone:joint5/bone:joint6/bone:joint7
+        weight: 1
+      - path: bone:joint1/bone:joint8
+        weight: 1
+      - path: bone:joint1/bone:joint8/bone:joint9
+        weight: 1
+      - path: Maguro
+        weight: 1
+      - path: Maguro/polySurface3
+        weight: 1
+      - path: Maguro/pPlane1
+        weight: 1
+      - path: Maguro/pPlane2
+        weight: 1
+      - path: Maguro/pPlane3
+        weight: 1
+      - path: Maguro/pPlane4
+        weight: 1
+      - path: Maguro/pPlane5
+        weight: 1
+      - path: Maguro/pPlane6
+        weight: 1
+      - path: Maguro/pPlane7
+        weight: 1
+      - path: Maguro/pPlane8
+        weight: 1
+      - path: Maguro/pPlane9
+        weight: 1
+      - path: Maguro/pPlane10
+        weight: 1
+      - path: Maguro/pPlane11
+        weight: 1
+      - path: Maguro/pPlane12
+        weight: 1
+      - path: Maguro/pPlane13
+        weight: 1
+      - path: Maguro/pPlane14
+        weight: 1
+      - path: polySurface2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

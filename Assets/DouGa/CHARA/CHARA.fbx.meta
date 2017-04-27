@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: dca0fab64d91d1943957c4ad1769be95
+timeCreated: 1466400481
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bone:joint1
+    100002: bone:joint2
+    100004: bone:joint3
+    100006: bone:joint4
+    100008: bone:joint5
+    100010: bone:joint6
+    100012: bone:joint7
+    100014: bone:joint8
+    100016: bone:joint9
+    100018: //RootNode
+    100020: Chara
+    100022: group1
+    100024: group1 1
+    100026: Hire1_L
+    100028: Hire1_R
+    100030: hire2_L
+    100032: hire2_R
+    100034: hire3_L
+    100036: hire4
+    100038: hire5_R
+    100040: hire6
+    100042: imagePlane1
+    100044: joint1
+    100046: joint2
+    100048: joint3
+    100050: pCube1
+    100052: pCube2
+    100054: pCube3
+    100056: pCube3 1
+    100058: pCube4
+    100060: pCube4 1
+    100062: pCube5
+    100064: pCube5 1
+    100066: pCube5 2
+    100068: pCube5 3
+    100070: pCube5 4
+    100072: pCube5 5
+    100074: pCube6
+    100076: pCube6 1
+    100078: pCube6 2
+    100080: pCube6 3
+    100082: pCube6 4
+    100084: pCube6 5
+    100086: pCube7
+    100088: pCube8
+    100090: polySurface1
+    100092: pSphere1
+    100094: pSphere2
+    400000: bone:joint1
+    400002: bone:joint2
+    400004: bone:joint3
+    400006: bone:joint4
+    400008: bone:joint5
+    400010: bone:joint6
+    400012: bone:joint7
+    400014: bone:joint8
+    400016: bone:joint9
+    400018: //RootNode
+    400020: Chara
+    400022: group1
+    400024: group1 1
+    400026: Hire1_L
+    400028: Hire1_R
+    400030: hire2_L
+    400032: hire2_R
+    400034: hire3_L
+    400036: hire4
+    400038: hire5_R
+    400040: hire6
+    400042: imagePlane1
+    400044: joint1
+    400046: joint2
+    400048: joint3
+    400050: pCube1
+    400052: pCube2
+    400054: pCube3
+    400056: pCube3 1
+    400058: pCube4
+    400060: pCube4 1
+    400062: pCube5
+    400064: pCube5 1
+    400066: pCube5 2
+    400068: pCube5 3
+    400070: pCube5 4
+    400072: pCube5 5
+    400074: pCube6
+    400076: pCube6 1
+    400078: pCube6 2
+    400080: pCube6 3
+    400082: pCube6 4
+    400084: pCube6 5
+    400086: pCube7
+    400088: pCube8
+    400090: polySurface1
+    400092: pSphere1
+    400094: pSphere2
+    4300000: pCube2
+    4300002: pCube4
+    4300004: pCube3
+    4300006: pCube4
+    4300008: pCube3
+    4300010: pCube5
+    4300012: pCube6
+    4300014: pCube5
+    4300016: pCube6
+    4300018: pCube5
+    4300020: pCube6
+    4300022: pCube5
+    4300024: pCube6
+    4300026: pCube5
+    4300028: pCube6
+    4300030: pCube8
+    4300032: pCube5
+    4300034: pCube6
+    4300036: pCube7
+    4300038: pSphere1
+    4300040: pSphere2
+    4300042: pCube1
+    4300044: polySurface1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pCube1
+    13700002: pCube2
+    13700004: pCube3
+    13700006: pCube3 1
+    13700008: pCube4
+    13700010: pCube4 1
+    13700012: pCube5
+    13700014: pCube5 1
+    13700016: pCube5 2
+    13700018: pCube5 3
+    13700020: pCube5 4
+    13700022: pCube5 5
+    13700024: pCube6
+    13700026: pCube6 1
+    13700028: pCube6 2
+    13700030: pCube6 3
+    13700032: pCube6 4
+    13700034: pCube6 5
+    13700036: pCube7
+    13700038: pCube8
+    13700040: polySurface1
+    13700042: pSphere1
+    13700044: pSphere2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 103
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bone:joint1
+        weight: 1
+      - path: bone:joint1/bone:joint2
+        weight: 1
+      - path: bone:joint1/bone:joint2/bone:joint3
+        weight: 1
+      - path: bone:joint1/bone:joint2/bone:joint3/bone:joint4
+        weight: 1
+      - path: bone:joint1/bone:joint2/bone:joint3/bone:joint4/bone:joint5
+        weight: 1
+      - path: bone:joint1/bone:joint2/bone:joint3/bone:joint4/bone:joint5/bone:joint6
+        weight: 1
+      - path: bone:joint1/bone:joint2/bone:joint3/bone:joint4/bone:joint5/bone:joint6/bone:joint7
+        weight: 1
+      - path: bone:joint1/bone:joint8
+        weight: 1
+      - path: bone:joint1/bone:joint8/bone:joint9
+        weight: 1
+      - path: bone:joint1/bone:joint8/joint1
+        weight: 1
+      - path: bone:joint1/bone:joint8/joint1/joint2
+        weight: 1
+      - path: bone:joint1/bone:joint8/joint1/joint2/joint3
+        weight: 1
+      - path: Chara
+        weight: 1
+      - path: Chara/Hire1_L
+        weight: 1
+      - path: Chara/Hire1_L/group1
+        weight: 1
+      - path: Chara/Hire1_L/group1/pCube3
+        weight: 1
+      - path: Chara/Hire1_L/group1/pCube4
+        weight: 1
+      - path: Chara/Hire1_R
+        weight: 1
+      - path: Chara/Hire1_R/group1 1
+        weight: 1
+      - path: Chara/Hire1_R/group1 1/pCube3 1
+        weight: 1
+      - path: Chara/Hire1_R/group1 1/pCube4 1
+        weight: 1
+      - path: Chara/hire2_L
+        weight: 1
+      - path: Chara/hire2_L/pCube5
+        weight: 1
+      - path: Chara/hire2_L/pCube6
+        weight: 1
+      - path: Chara/hire2_R
+        weight: 1
+      - path: Chara/hire2_R/pCube5 1
+        weight: 1
+      - path: Chara/hire2_R/pCube6 1
+        weight: 1
+      - path: Chara/hire3_L
+        weight: 1
+      - path: Chara/hire3_L/pCube5 2
+        weight: 1
+      - path: Chara/hire3_L/pCube6 2
+        weight: 1
+      - path: Chara/hire4
+        weight: 1
+      - path: Chara/hire4/pCube5 3
+        weight: 1
+      - path: Chara/hire4/pCube6 3
+        weight: 1
+      - path: Chara/hire4/pCube8
+        weight: 1
+      - path: Chara/hire5_R
+        weight: 1
+      - path: Chara/hire5_R/pCube5 4
+        weight: 1
+      - path: Chara/hire5_R/pCube6 4
+        weight: 1
+      - path: Chara/hire6
+        weight: 1
+      - path: Chara/hire6/pCube5 5
+        weight: 1
+      - path: Chara/hire6/pCube6 5
+        weight: 1
+      - path: Chara/hire6/pCube7
+        weight: 1
+      - path: Chara/pCube1
+        weight: 1
+      - path: Chara/pCube2
+        weight: 1
+      - path: Chara/polySurface1
+        weight: 1
+      - path: Chara/pSphere1
+        weight: 1
+      - path: Chara/pSphere2
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
